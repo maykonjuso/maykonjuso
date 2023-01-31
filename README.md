@@ -1,14 +1,14 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffcbdb&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffcbdb&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Maykon+Júnio;I'm+20+years+old;I+from+Brasil,+DF;I+study+systems+development+at+Senai;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffcbdb&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Maykon+Júnio;I'm+20+years+old;I+from+Brasil,+DF;I+study+systems+development+at+UnB;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=maykonjuso&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Maykon Júnio github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=maykonjuso&show_icons=true&count_private=true&hide_border=true&title_color=ffcbdb&icon_color=ffcbdb&text_color=ffcbdb&bg_color=ffcbdb" alt="Maykon Júnio github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maykonjuso&layout=compact&hide_border=true&title_color=ffcbdb&text_color=ffcbdb&bg_color=0d1117" />
 </div>
 
 
-<p align="center">
+<p align="centerffcbdb
   <img src="https://github-profile-trophy.vercel.app/?username=maykonjuso&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
