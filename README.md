@@ -3,7 +3,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00da00&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Maykon+Júnio;I'm+20+years+old;I+from+Brazil,+Brasilia;I+study+software+engineering+at+UnB;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
-  <br/>
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=maykonjuso&show_icons=true&count_private=true&hide_border=true&title_color=00da00&icon_color=00da00&text_color=00da00&bg_color=0d1117" alt="Maykon Júnio github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maykonjuso&layout=compact&hide_border=true&title_color=00da00&text_color=00da00&bg_color=0d1117" />
 </divff81d6
@@ -14,6 +13,7 @@
 </p>
 
 <div align="center">  
+  <br/>
 <a href="https://www.instagram.com/mayk.juso/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-0b870b?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F"</a>
 <a href="https://www.linkedin.com/in/maykon13/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0b870b?style=for-the-badge&logo=LinkedIn&logoColor=white&labelColor=0A66C2"</a>
 </div>
