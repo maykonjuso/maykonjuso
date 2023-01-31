@@ -17,8 +17,6 @@
 
 <br/>
 
-<div align="center">
-
 ### 🤗 Contact me
 
 <div align="center">  
@@ -53,7 +51,6 @@
     <a href="https://insomnia.rest/" target="_blank"><img src="https://img.shields.io/badge/-Insomnia-0b870b?style=for-the-badge&logo=Insomnia&logoColor=white&labelColor=4000BF"</a>
     <a href="https://www.figma.com/" target="_blank"><img src="https://img.shields.io/badge/-Figma-0b870b?style=for-the-badge&logo=figma&logoColor=white&labelColor=F24E1E"</a>
     <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/-Python-0b870b?style=for-the-badge&logo=python&logoColor=white&labelColor=3776AB"</a>
-  </div>
 </div>
 
 <div align="center">
