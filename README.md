@@ -44,13 +44,14 @@
 ### Other Knowledge
 
 <div>
-<a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/-Python-0b870b?style=for-the-badge&logo=Microsoft-Python&logoColor=white&labelColor=3776AB"</a>
+<a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/-Python-0b870b?style=for-the-badge&logo=python&logoColor=white&labelColor=3776AB"</a>
 <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/-Python-0b870b?style=for-the-badge&logo=Microsoft-Python&logoColor=white&labelColor=3776AB"</a>
 
 ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
 ![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
 ![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
+
 </div>
 ### Studying in this moment
 
