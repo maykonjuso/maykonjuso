@@ -30,7 +30,10 @@
 
 ### Tools
 
+<div>
 <a href="https://www.eclipse.org/downloads/" target="_blank"><img src="https://img.shields.io/badge/-Eclipse-0b870b?style=for-the-badge&logo=Eclipse-IDE&logoColor=white&labelColor=339933"</a>
+
+</div>
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
