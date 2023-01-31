@@ -19,14 +19,14 @@
 
 ### 🤗 Contact me
 
-<div align="center">  
+<div>  
   <a href="https://www.linkedin.com/in/maykon13/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0b870b?style=for-the-badge&logo=LinkedIn&logoColor=white&labelColor=0A66C2"</a>
   <a href="https://www.instagram.com/mayk.juso/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-0b870b?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F"</a>
 </div>
 
 ### 🔥 Main skills
 
-<div align="center">  
+<div>  
   <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/-TypeScript-0b870b?style=for-the-badge&logo=TypeScript&logoColor=white&labelColor=3178C6"</a>
   <a href="https://pt-br.reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/-React-0b870b?style=for-the-badge&logo=React&logoColor=white&labelColor=61DAFB"</a>
   <a href="https://nodejs.org/en/" target="_blank"><img src="https://img.shields.io/badge/-Node.js-0b870b?style=for-the-badge&logo=Node.js&logoColor=white&labelColor=339933"</a>
@@ -52,6 +52,8 @@
     <a href="https://www.figma.com/" target="_blank"><img src="https://img.shields.io/badge/-Figma-0b870b?style=for-the-badge&logo=figma&logoColor=white&labelColor=F24E1E"</a>
     <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/-Python-0b870b?style=for-the-badge&logo=python&logoColor=white&labelColor=3776AB"</a>
 </div>
+
+<br/>
 
 <div align="center">
   <br>
