@@ -32,6 +32,7 @@
 <a href="https://pt-br.reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/-React-0b870b?style=for-the-badge&logo=React&logoColor=white&labelColor=61DAFB"</a>
 <a href="https://nodejs.org/en/" target="_blank"><img src="https://img.shields.io/badge/-Node.js-0b870b?style=for-the-badge&logo=Node.js&logoColor=white&labelColor=339933"</a>
 <a href="https://www.mongodb.com/" target="_blank"><img src="https://img.shields.io/badge/-MongoDB-0b870b?style=for-the-badge&logo=MongoDB&logoColor=white&labelColor=47A248"</a>
+<a href="https://www.java.com/" target="_blank"><img src="https://img.shields.io/badge/-Java-0b870b?style=for-the-badge&logo=CoffeeScript&logoColor=white&labelColor=265A8F"</a>
 <a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/-MySQL-0b870b?style=for-the-badge&logo=MySQL&logoColor=white&labelColor=4479A1"</a>
 </div>
 
@@ -40,7 +41,6 @@
 <div>
 <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.shields.io/badge/-Visual%20Studio%20Code-0b870b?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white&labelColor=007ACC"</a>
 <a href="https://www.eclipse.org/downloads/" target="_blank"><img src="https://img.shields.io/badge/-Eclipse-0b870b?style=for-the-badge&logo=Eclipse-IDE&logoColor=white&labelColor=2C2255"</a>
-<a href="https://www.java.com/" target="_blank"><img src="https://img.shields.io/badge/-Java-0b870b?style=for-the-badge&logo=CoffeeScript&logoColor=white&labelColor=265A8F"</a>
 <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/-Git-0b870b?style=for-the-badge&logo=Git&logoColor=white&labelColor=F05032"</a>
 <a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/-Docker-0b870b?style=for-the-badge&logo=Docker&logoColor=white&labelColor=2496ED"</a>
 <a href="https://www.office.com/" target="_blank"><img src="https://img.shields.io/badge/-Office-0b870b?style=for-the-badge&logo=Microsoft-Office&logoColor=white&labelColor=D83B01"</a>
