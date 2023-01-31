@@ -13,9 +13,9 @@
 
 <div align="center">  
   <br/>
-<a href="https://www.instagram.com/mayk.juso/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-0b870b?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F"</a>
 <a href="https://www.linkedin.com/in/maykon13/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0b870b?style=for-the-badge&logo=LinkedIn&logoColor=white&labelColor=0A66C2"</a>
 </div>
+<a href="https://www.instagram.com/mayk.juso/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-0b870b?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F"</a>
 
 ### Main skills:
 
@@ -31,7 +31,10 @@
 ### Tools
 
 <div>
-<a href="https://www.eclipse.org/downloads/" target="_blank"><img src="https://img.shields.io/badge/-Eclipse-0b870b?style=for-the-badge&logo=Eclipse-IDE&logoColor=white&labelColor=339933"</a>
+<a href="https://www.eclipse.org/downloads/" target="_blank"><img src="https://img.shields.io/badge/-Eclipse-0b870b?style=for-the-badge&logo=Eclipse-IDE&logoColor=white&labelColor=2C2255"</a>
+<a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.shields.io/badge/-Visual%20Studio%20Code-0b870b?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white&labelColor=007ACC"</a>
+<a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/-Git-0b870b?style=for-the-badge&logo=Git&logoColor=white&labelColor=F05032"</a>
+<a href="https://www.office.com/" target="_blank"><img src="https://img.shields.io/badge/-Office-0b870b?style=for-the-badge&logo=Microsoft-Office&logoColor=white&labelColor=D83B01"</a>
 
 </div>
 
