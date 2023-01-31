@@ -13,7 +13,7 @@
 </p>
 
 <div align="center">  
-<a href="https://www.instagram.com/mayk.juso/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-00da00?style=for-the-badge&logo=instagram&logoColor=white&labelColor=00da00"</a>
+<a href="https://www.instagram.com/mayk.juso/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-078907?style=for-the-badge&logo=instagram&logoColor=white&labelColor=078907"</a>
 </div>
   
 
