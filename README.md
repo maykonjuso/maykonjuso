@@ -25,6 +25,7 @@
 <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/-TypeScript-0b870b?style=for-the-badge&logo=TypeScript&logoColor=white&labelColor=3178C6"</a>
 <a href="https://pt-br.reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/-React-0b870b?style=for-the-badge&logo=React&logoColor=white&labelColor=61DAFB"</a>
 <a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/-MySQL-0b870b?style=for-the-badge&logo=MySQL&logoColor=white&labelColor=4479A1"</a>
+<a href="https://www.mongodb.com/" target="_blank"><img src="https://img.shields.io/badge/-MongoDB-0b870b?style=for-the-badge&logo=MongoDB&logoColor=white&labelColor=47A248"</a>
 
 </div>
   
