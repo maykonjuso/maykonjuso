@@ -4,7 +4,8 @@
 <br/>
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=maykonjuso&show_icons=true&count_private=true&hide_border=true&title_color=00da00&icon_color=00da00&text_color=00da00&bg_color=0d1117" alt="Maykon Júnio github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=maykonjuso&show_icons=true&count_private=true&hide_border=true&title_co
+  lor=00da00&icon_color=00da00&text_color=00da00&bg_color=0d1117" alt="Maykon Júnio github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maykonjuso&layout=compact&hide_border=true&title_color=00da00&text_color=00da00&bg_color=0d1117" />
 
 <br/>
@@ -55,6 +56,7 @@
 ![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
 
 </div>
+
 ### Studying in this moment
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
