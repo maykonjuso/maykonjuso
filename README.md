@@ -50,7 +50,7 @@
 
 <div>
 <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/-Python-0b870b?style=for-the-badge&logo=python&logoColor=white&labelColor=3776AB"</a>
-<a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/-Python-0b870b?style=for-the-badge&logo=Microsoft-Python&logoColor=white&labelColor=3776AB"</a>
+<a href="https://www.figma.com/" target="_blank"><img src="https://img.shields.io/badge/-Figma-0b870b?style=for-the-badge&logo=figma&logoColor=white&labelColor=F24E1E"</a>
 
 ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
@@ -66,9 +66,11 @@
 
 </div>
 
-  <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
+<div align="center">
+<br>
+<p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{maykonjuso}/count.svg" /></p> 
-<br></div>
+<br>
+</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00da00&height=120&section=footer"/>
