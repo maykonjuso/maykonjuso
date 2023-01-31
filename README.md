@@ -5,7 +5,7 @@
 <br/>
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=maykonjuso&show_icons=true&count_private=true&hide_border=true&title_color=00da00&icon_color=00da00&text_color=00da00&bg_color=0d1117" alt="Maykon Júnio github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=maykonjuso&show_icons=true&count_private=true&hide_border=true&title_color=00da00&icon_color=00da00&text_color=00da00&bg_color=0d1117" alt="Maykon Júnio github stats 😎" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maykonjuso&layout=compact&hide_border=true&title_color=00da00&text_color=00da00&bg_color=0d1117" />
 </div>
 
@@ -19,14 +19,14 @@
 
 <div align="center">
 
-### Talk to me too
+### Contact me
 
 <div align="center">  
   <a href="https://www.linkedin.com/in/maykon13/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0b870b?style=for-the-badge&logo=LinkedIn&logoColor=white&labelColor=0A66C2"</a>
   <a href="https://www.instagram.com/mayk.juso/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-0b870b?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F"</a>
 </div>
 
-### Main skills
+### Main skills 🔥
 
 <div align="center">  
   <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/-TypeScript-0b870b?style=for-the-badge&logo=TypeScript&logoColor=white&labelColor=3178C6"</a>
@@ -37,7 +37,7 @@
   <a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/-MySQL-0b870b?style=for-the-badge&logo=MySQL&logoColor=white&labelColor=4479A1"</a>
 </div>
 
-### Tools
+### Tools ⚙️
 
 <div>
   <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.shields.io/badge/-Visual%20Studio%20Code-0b870b?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white&labelColor=007ACC"</a>
@@ -47,7 +47,7 @@
   <a href="https://www.office.com/" target="_blank"><img src="https://img.shields.io/badge/-Office-0b870b?style=for-the-badge&logo=Microsoft-Office&logoColor=white&labelColor=D83B01"</a>
 </div>
 
-### Other Knowledge
+### Other Knowledge 🤓
 
 <div>
     <a href="https://insomnia.rest/" target="_blank"><img src="https://img.shields.io/badge/-Insomnia-0b870b?style=for-the-badge&logo=Insomnia&logoColor=white&labelColor=4000BF"</a>
@@ -58,7 +58,7 @@
 
 <div align="center">
   <br>
-    <p align="centre"><b>Visitors Count</b></p>  
+    <p align="centre"><b>Visitors Count 🧐</b></p>  
     <p align="center"><img align="center" src="https://profile-counter.glitch.me/{maykonjuso}/count.svg" /></p> 
   <br>
 </div>
