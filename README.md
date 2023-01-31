@@ -17,13 +17,6 @@
 
 <br/>
 
-### 🤗 Contact me
-
-<div>  
-  <a href="https://www.linkedin.com/in/maykon13/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0b870b?style=for-the-badge&logo=LinkedIn&logoColor=white&labelColor=0A66C2"</a>
-  <a href="https://www.instagram.com/mayk.juso/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-0b870b?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F"</a>
-</div>
-
 ### 🔥 Main skills
 
 <div>  
@@ -51,6 +44,13 @@
     <a href="https://insomnia.rest/" target="_blank"><img src="https://img.shields.io/badge/-Insomnia-0b870b?style=for-the-badge&logo=Insomnia&logoColor=white&labelColor=4000BF"</a>
     <a href="https://www.figma.com/" target="_blank"><img src="https://img.shields.io/badge/-Figma-0b870b?style=for-the-badge&logo=figma&logoColor=white&labelColor=F24E1E"</a>
     <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/-Python-0b870b?style=for-the-badge&logo=python&logoColor=white&labelColor=3776AB"</a>
+</div>
+
+### 🤗 Contact me too
+
+<div>  
+  <a href="https://www.linkedin.com/in/maykon13/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0b870b?style=for-the-badge&logo=LinkedIn&logoColor=white&labelColor=0A66C2"</a>
+  <a href="https://www.instagram.com/mayk.juso/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-0b870b?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F"</a>
 </div>
 
 <br/>
