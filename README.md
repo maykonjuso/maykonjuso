@@ -17,7 +17,7 @@
 <a href="https://www.instagram.com/mayk.juso/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-0b870b?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F"</a>
 </div>
 
-### Main skills:
+### Main skills
 
 <div align="center">  
 <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/-TypeScript-0b870b?style=for-the-badge&logo=TypeScript&logoColor=white&labelColor=3178C6"</a>
@@ -30,21 +30,21 @@
 ### Tools
 
 <div>
-<a href="https://www.eclipse.org/downloads/" target="_blank"><img src="https://img.shields.io/badge/-Eclipse-0b870b?style=for-the-badge&logo=Eclipse-IDE&logoColor=white&labelColor=2C2255"</a>
 <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.shields.io/badge/-Visual%20Studio%20Code-0b870b?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white&labelColor=007ACC"</a>
+<a href="https://www.eclipse.org/downloads/" target="_blank"><img src="https://img.shields.io/badge/-Eclipse-0b870b?style=for-the-badge&logo=Eclipse-IDE&logoColor=white&labelColor=2C2255"</a>
 <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/-Git-0b870b?style=for-the-badge&logo=Git&logoColor=white&labelColor=F05032"</a>
 <a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/-Docker-0b870b?style=for-the-badge&logo=Docker&logoColor=white&labelColor=2496ED"</a>
 <a href="https://www.office.com/" target="_blank"><img src="https://img.shields.io/badge/-Office-0b870b?style=for-the-badge&logo=Microsoft-Office&logoColor=white&labelColor=D83B01"</a>
 </div>
 
-### Other Knowledge:
+### Other Knowledge
 
 ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
 ![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
 ![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
 
-### Studying in this moment:
+### Studying in this moment
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
