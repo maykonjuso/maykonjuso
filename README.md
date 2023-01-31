@@ -35,11 +35,11 @@
 ![Boostrap](https://img.shields.io/badge/-boostrap-00da00?style=for-the-badge&logo=bootstrap&labelColor=00da00)&nbsp;
 ![MySQL](https://img.shields.io/badge/-mysql-00da00?style=for-the-badge&logo=mysql&labelColor=00da00)&nbsp;
 ![Figma](https://img.shields.io/badge/-figma-00da00?style=for-the-badge&logo=figma&labelColor=00da00)&nbsp;
-  
+
 ### Studying in this moment:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-00da00?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=00da00)&nbsp;
 ![Node.JS](https://img.shields.io/badge/-Node.JS-00da00?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=00da00)&nbsp;
-
+  
   <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{maykonjuso}/count.svg" /></p> 
