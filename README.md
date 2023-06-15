@@ -1,65 +1,39 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00da00&height=120&section=header"/>
+## Apresentação
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00da00&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Maykon+Junio+😉;I'm+20+years+old;I+from+Brazil,+Brasilia.;I+study+software+engineering+at+UnB.;Be+Welcome!+😁)](https://git.io/typing-svg)
+</br>
 
-<br/>
-
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=maykonjuso&show_icons=true&count_private=true&hide_border=true&title_color=00da00&icon_color=ffffff&text_color=00da00&bg_color=0d1117" alt="Maykon Júnio github 😎" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maykonjuso&layout=compact&hide_border=true&title_color=00da00&text_color=00da00&bg_color=0d1117" />
-</div>
-
-<br/>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=maykonjuso&theme=matrix&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+<p>
+Meu nome é Maykon Júnio tenho 20 anos e curso o quinto semestre da graduação em Engenharia de Software na Universidade de Brasília (UnB).
+<br>
+Dessa maneira, tenho experiência nas áreas relacionadas a documentação, análise e desenvolvimento de software. Além disso, fiz parte de equipes de desenvolvimento na maior empresa júnior de gamificação da América Latina, a Orc’estra Gamificação, que me ajudou a adquirir experiência em metodologias dirigidas a plano e ageis como Scrum, Kanban e eXtreme Programming (XP), aprimorando minha relação com interação em equipe. 
 </p>
 
 <br/>
 
-### 🔥 Main skills
-
-<div>  
-  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/-TypeScript-0b870b?style=for-the-badge&logo=TypeScript&logoColor=white&labelColor=3178C6"</a>
-  <a href="https://pt-br.reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/-React-0b870b?style=for-the-badge&logo=React&logoColor=white&labelColor=61DAFB"</a>
-  <a href="https://nodejs.org/en/" target="_blank"><img src="https://img.shields.io/badge/-Node.js-0b870b?style=for-the-badge&logo=Node.js&logoColor=white&labelColor=339933"</a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://img.shields.io/badge/-MongoDB-0b870b?style=for-the-badge&logo=MongoDB&logoColor=white&labelColor=47A248"</a>
-  <a href="https://www.java.com/" target="_blank"><img src="https://img.shields.io/badge/-Java-0b870b?style=for-the-badge&logo=CoffeeScript&logoColor=white&labelColor=265A8F"</a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/-MySQL-0b870b?style=for-the-badge&logo=MySQL&logoColor=white&labelColor=4479A1"</a>
+<div align="center">  
+  <img width="52%" height="195px" src="https://github-readme-stats.vercel.app/api?username=maykonjuso&show_icons=true&count_private=true&hide_border=true&title_color=2c2b2b&icon_color=2c2b2b&text_color=2c2b2b&bg_color=f5f5f5" alt="Maykon Júnio github 😎" /> 
+  <img width="40%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maykonjuso&layout=compact&hide_border=true&title_color=2c2b2b&text_color=2c2b2b&bg_color=f5f5f5" />
 </div>
 
-### ⚙️ Tools
+## Entre em contato comigo
 
-<div>
-  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.shields.io/badge/-Visual%20Studio%20Code-0b870b?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white&labelColor=007ACC"</a>
-  <a href="https://www.eclipse.org/downloads/" target="_blank"><img src="https://img.shields.io/badge/-Eclipse-0b870b?style=for-the-badge&logo=Eclipse-IDE&logoColor=white&labelColor=2C2255"</a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/-Git-0b870b?style=for-the-badge&logo=Git&logoColor=white&labelColor=F05032"</a>
-  <a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/-Docker-0b870b?style=for-the-badge&logo=Docker&logoColor=white&labelColor=2496ED"</a>
-  <a href="https://www.office.com/" target="_blank"><img src="https://img.shields.io/badge/-Office-0b870b?style=for-the-badge&logo=Microsoft-Office&logoColor=white&labelColor=D83B01"</a>
-</div>
+<br>
 
-### 🤓 Other Knowledge
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maykon13/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maykola1331@gmail.com)
+[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5561999455714&text=Ol%C3%A1%2C%20Victor.%20Te%20encontrei%20pelo%20GitHub%20e%20gostaria%20de%20falar%20com%20voc%C3%AA.%20)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/thiagomes)
 
-<div>
-    <a href="https://insomnia.rest/" target="_blank"><img src="https://img.shields.io/badge/-Insomnia-0b870b?style=for-the-badge&logo=Insomnia&logoColor=white&labelColor=4000BF"</a>
-    <a href="https://www.figma.com/" target="_blank"><img src="https://img.shields.io/badge/-Figma-0b870b?style=for-the-badge&logo=figma&logoColor=white&labelColor=F24E1E"</a>
-    <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/-Python-0b870b?style=for-the-badge&logo=python&logoColor=white&labelColor=3776AB"</a>
-</div>
+### Principais tecnologias
 
-### 🤗 Contact me too
+<br>
 
-<div>  
-  <a href="https://www.linkedin.com/in/maykon13/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0b870b?style=for-the-badge&logo=LinkedIn&logoColor=white&labelColor=0A66C2"</a>
-  <a href="https://www.instagram.com/mayk.juso/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-0b870b?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F"</a>
-</div>
-
-<br/>
-
-<div align="center">
-  <br>
-    <p align="centre"><b>Visitors Count</b></p>  
-    <p align="center"><img align="center" src="https://profile-counter.glitch.me/{maykonjuso}/count.svg" /></p> 
-  <br>
-</div>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00da00&height=120&section=footer"/>
+![PostgresSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Typescript](https://img.shields.io/badge/typescript-005C84?style=for-the-badge&logo=typescript&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
