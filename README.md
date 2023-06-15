@@ -2,9 +2,10 @@
 
 </br>
 
-<p>
+<p style="text-indent:3rem; text-align: justify;">
 Meu nome é Maykon Júnio tenho 20 anos e curso o quinto semestre da graduação em Engenharia de Software na Universidade de Brasília (UnB).
-<br>
+</p>
+<p style="text-indent:3rem; text-align: justify;">
 Dessa maneira, tenho experiência nas áreas relacionadas a documentação, análise e desenvolvimento de software. Além disso, fiz parte de equipes de desenvolvimento na maior empresa júnior de gamificação da América Latina, a Orc’estra Gamificação, que me ajudou a adquirir experiência em metodologias dirigidas a plano e ageis como Scrum, Kanban e eXtreme Programming (XP), aprimorando minha relação com interação em equipe. 
 </p>
 
