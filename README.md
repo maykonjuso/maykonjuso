@@ -9,6 +9,7 @@ Meu nome é Maykon Júnio tenho 20 anos e curso o sexto semestre da graduação 
 Dessa maneira, tenho experiência nas áreas relacionadas a documentação, análise e desenvolvimento de software. Além disso, fiz parte de equipes de desenvolvimento na maior empresa júnior de gamificação da América Latina, a Orc’estra Gamificação, que me ajudou a adquirir experiência em metodologias dirigidas a plano e ageis como Scrum, Kanban e eXtreme Programming (XP), aprimorando minha relação com interação em equipe. 
 </p>
 
+
 <br/>
 
 <div align="center">  
