@@ -6,9 +6,8 @@
 Meu nome é Maykon Júnio tenho 20 anos e curso o sexto semestre da graduação em Engenharia de Software na Universidade de Brasília (UnB).
 </p>
 <p style="text-indent:3rem; text-align: justify;">
-Dessa maneira, tenho experiência nas áreas relacionadas a documentação, análise e desenvolvimento de software. Além disso, fiz parte de equipes de desenvolvimento na maior empresa júnior de gamificação da América Latina, a Orc’estra Gamificação, que me ajudou a adquirir experiência em metodologias dirigidas a plano e ageis como Scrum, Kanban e eXtreme Programming (XP), aprimorando minha relação com interação em equipe. 
+Dessa maneira, tenho experiência e formação voltadas para a Análise de Dados e Desenvolvimento Full-Stack, possuo domínio de ferramentas para o estudo de dados e bibliotecas JavaScript como React e Angular. Confira meus meus projetos recentes abaixo ✌️
 </p>
-
 
 <br/>
 
@@ -29,7 +28,10 @@ Dessa maneira, tenho experiência nas áreas relacionadas a documentação, aná
 
 <br>
 
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![ReactJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -37,8 +39,5 @@ Dessa maneira, tenho experiência nas áreas relacionadas a documentação, aná
 ![PostgresSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
