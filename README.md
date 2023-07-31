@@ -3,9 +3,7 @@
 </br>
 
 <p style="text-indent:3rem; text-align: justify;">
-Meu nome é Maykon Júnio tenho 20 anos e curso o sexto semestre da graduação em Engenharia de Software na Universidade de Brasília (UnB). Tenho Experiência e formação voltadas para a Análise de Dados e Desenvolvimento Full-Stack, possuo domínio de ferramentas para o estudo de dados e bibliotecas JavaScript como React e Angular. Nesse sentido, busco oportunidades como Analista de Dados/Desenvolvedor Júnior ou Estagiário.
-</p>
-
+Meu nome é Maykon Júnio tenho 20 anos e curso o sexto semestre da graduação em Engenharia de Software na Universidade de Brasília (UnB). Tenho Experiência e formação voltadas para a Análise de Dados e Desenvolvimento Full-Stack, possuo domínio de ferramentas para o estudo de dados e bibliotecas JavaScript como React e Angular.
 <br/>
 
 <div align="center">  
