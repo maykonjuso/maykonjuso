@@ -3,7 +3,7 @@
 </br>
 
 <p style="text-indent:3rem; text-align: justify;">
-Meu nome é Maykon Júnio tenho 20 anos e curso o sexto semestre da graduação em Engenharia de Software na Universidade de Brasília (UnB). Tenho Experiência e formação voltadas para a Análise de Dados e Desenvolvimento Full-Stack, possuo domínio de ferramentas para o estudo de dados e bibliotecas JavaScript como React e Angular.
+Me chamo Maykon Júnio, tenho 20 anos e estou no sexto semestre do curso de Engenharia de Software na UnB. Minha experiência abrange documentação, análise e desenvolvimento de software. Participei da Orc'estra Gamificação, a maior empresa júnior de gamificação da América Latina, adquirindo habilidades em metodologias ágeis como Scrum e Kanban, melhorando minha capacidade de trabalho em equipe. Tenho expertise em ferramentas cruciais para análise de dados, como Python (Pandas, PySpark e Tableau), SQL e Power BI, e conheço o desenvolvimento de aplicações com Next.js e Angular.
 <br/>
 
 <div align="center">  
