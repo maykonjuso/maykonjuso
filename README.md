@@ -3,7 +3,8 @@
 </br>
 
 <p style="text-indent:3rem; text-align: justify;">
-Me chamo Maykon Júnio, tenho 20 anos e estou no sexto semestre do curso de Engenharia de Software na UnB. Minha experiência abrange documentação, análise e desenvolvimento de software. Participei da Orc'estra Gamificação, a maior empresa júnior de gamificação da América Latina, adquirindo habilidades em metodologias ágeis como Scrum, melhorando minha capacidade de trabalho em equipe. Tenho certificações voltadas para Engenharia de Dados como AZ900, SQL Server e Python (PySpark e Pandas), e conheço o desenvolvimento de aplicações com Next.js.
+Olá! Sou o Maykon Júnio, um estudante de Engenharia de Software na Universidade de Brasília (UnB). 
+Minha jornada até aqui tem sido toda sobre lidar com dados de maneira eficiente. Tenho trabalhado com ferramentas como Azure Databricks, PySpark, Pandas e SQL Server para extrair e tratar dados para análises. Além disso, venho realizando trabalhos com dashboards interativos com ferramentas como o auxilio do Power BI, Dash e Next.js.
 <br/>
 
 <div align="center">  
