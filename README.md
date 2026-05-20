@@ -6,7 +6,9 @@
 
 ---
 
-**EN** | Olá, sou o **Maykon Júnio** — Data Engineer at Act Digital, embedded at Sicoob (Brazil's largest credit cooperative). I build pipelines processing hundreds of GB to TB per day, ML-based incident prediction systems, and production AI agents using Anthropic MCP and the Claude API. B.Sc. Software Engineering student at UnB.
+Olá, sou o **Maykon Júnio**! 
+
+**EN** | Data Engineer at Act Digital, embedded at Sicoob (Brazil's largest credit cooperative). I build pipelines processing hundreds of GB to TB per day, ML-based incident prediction systems, and production AI agents using Anthropic MCP and the Claude API. B.Sc. Software Engineering student at UnB.
 
 **PT** | Engenheiro de Dados na Act Digital, alocado no Sicoob. Construo pipelines de alto volume, sistemas preditivos com ML e agentes de IA com MCP da Anthropic e Claude API em produção. Estudante de Engenharia de Software na UnB.
 
